@@ -1,0 +1,1007 @@
+<resources>
+    <string name="app_name">ZooPatna</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="mammals">
+        <item>Chimpanzee</item>
+        <item>Giraffe</item>
+        <item>Hippopotamus</item>
+        <item>Leopard</item>
+        <item>Lion</item>
+        <item>Otter</item>
+        <item>Rhinoceros</item>
+        <item>Tiger</item>
+        <item>Zebra</item>
+    </string-array>
+
+
+
+
+    <string name="chimpanzee">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>CHIMPANZEES</b></h3>
+
+          Chimpanzees are our closest living relatives, native to sub-Saharan Africa and found in the Congo Jungle. <br/>
+
+          Chimpanzees are social animal and it is thought that human and Chimpanzees share a common ancestor.<br/>
+
+          <br/>
+          <br/>
+
+          Sanjay Gandhi Biological Park (Patna Zoo) has one male and one female Chimpanzee named Kartik and Subhadra respectively. Both these animals were acquired from Nandankanan Zoo, Bhubneswar through animal exchange on 15.07.2012.
+
+          <br/>
+
+          <h3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+          Rice, Curd, Banana, Pomegranate, Mango, Apple, Gram, Kheer, Egg. Dav (Coconut water), Onion & Cucumber.It is standard diet and it varies with season to season.
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+     <string name="giraffe">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>GIRAFFE</b></h3>
+
+          Giraffe is the tallest living terrestrial animal having an average height of around 5 meters and it is the largest ruminant.
+          Giraffes live primarily in Savannahs areas in the Sub-Saharan region of Africa.
+
+          <br/>
+          <br/>
+
+          Sanjay Gandhi Biological Park, Patna has breeding captive population of Giraffe. In the year 2006, Patna Zoo received
+          01 male (Vikas) and 02 female (Shanti and Shrishti) from San Diego Zoo, U.S.A. under animal exchange progrqamme.
+          One female Giraffe was born in 2011 from Vikas and Shanti and she was finally transferred to Nandankanan Zoo in the year 2012.
+          Male (Vikas) was died on 23.10.2012, so Sanjay Gandhi Biological Park managed to receive one male Giraffe (Bhima)
+          from Mysore Zoo in 2014 under animal exchange. At present Sanjay Gandhi Biological Park, Patna has one male (Bihma)
+          and two female (Shanti and Shristi) Giraffe.
+
+          <br/>
+          <br/>
+
+            <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+            Deer mesh- 0.700 Kgs.</br>
+
+            Gram- 1.250 Kg.</br>
+
+            Wheat- 1.000 Kg.</br>
+
+            Moong- 0.750 Kg.</br>
+
+            Banana- 8.500 Kgs.</br>
+
+            Carrot-	0.500 Kg.</br>
+
+            Apple/Guava/Kheera- 7.00 Kg.</br>
+
+            Tomato- 0.200 Kg.</br>
+
+            Potato- 0.700 Kg.</br>
+
+            Onion- 0.700 kg.</br>
+
+            Greens- 17.00 Kgs.</br>
+
+            Bran- 1.000 Kg.</br>
+
+            per animal per day.</br>
+
+
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="hippopotamus">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>HIPPOPOTAMUS</b></h3>
+
+          The term hippopotamus comes from a Greek word meaning water horse or river horse even though it is not related to horse at all.
+          Hippopotamus secrete an oily red substance which gave rise to myth that they sweet blood but that is actually skin moisture and sun block which provide protection against germs.
+
+          <br/>
+          <br/>
+
+            <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+            Deer mesh-	4 Kgs.<br/>
+
+            Pumpkin/brinjal/potato-	1.5 - 2.0 Kgs.<br/>
+
+            Banana-	2 Kgs.<br/>
+
+            Bhusa-	8-10 kgs.<br/>
+
+            Sudan/Berseem grass-	50-55 Kgs.<br/>
+
+            Suger cane (Nov. to Feb.)-	10-15 kgs.<br/>
+
+            per animal per day.
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+     <string name="leopards">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>LEOPARD</b></h3>
+
+          Leopards are graceful medium sized big cat that is found in sub-sharan Africa, northeast Africa, central Asia, China and India.
+
+          <br/>
+          <br/>
+
+           At present Sanjay Gandhi Biological Park has two wild captured leopard, one male (Raja) and one female (Rani),
+           who were brought in the year 2012 from Guwahati Zoo. History of leopard at Patna zoo started in the year 1986
+           when two wild captured female leopards named Rangeeta and Tara were received from Hazaribagh Forest Division.
+           In the year 1997 one more female wild leopard named Reena received from Shahabad Forest Division. After that some more
+           wild as well as captive leopards were received. In the year 1990, a male leopard (Maan Singh) was received from Delhi
+           Zoo which lead to start of conservation breeding of leopard at Sanjay Gandhi Biological Park, Patna and first time two
+           female leopard cubs (Asha and Nisha) were born in the year 2002 from Maan Singh and Reena.
+
+           </br>
+           </br>
+
+            Average age	-	12-17 years.
+
+           </br>
+
+           <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+           Chicken - 7.500 Kgs.</br>
+
+           per animal per day.</br>
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+    <string name="lion">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <h3><b>LION</b></h3>
+
+          Lion is renowned for its majesty and strength and it is the second-largest living cat after the tiger.
+          Lion is the only social member of the Cat family which lives in large groups called prides.
+
+          <br>
+          <br>
+
+          First time Patna Zoo received two male and two female lions from wild origin in the year 1978.
+          These four lions started breeding the year 1982 and this lead to start of conservation breeding of lion at
+          Sanjay Gandhi Biological Park.
+
+          <br/>
+          <br/>
+
+          Patna Zoo transferred lion to Ranchi and Jaipur Zoos under animal exchange programme. Patna Zoo received two hybrid lion
+          from Bokaro Zoo in the year 2003 named Rambha and Urvashi.Hyderabad Zoo provided two lion in the year 2007 named Vishal and
+          Sraswati. These two lion breed successfully in the year 2012 and two cub Samrat and Sheru survived. At present Patna Zoo
+          has four normal lion and two hybrid lion.
+          </br>
+          <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+          Chicken- 2-2.50 Kgs.</br>
+
+          Beef- 6-7 Kgs.</br>
+
+          per animal per day.<br>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+
+    <string name="otter">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>OTTER SMOOTH INDIAN</b></h3>
+           Sanjay Gandhi Biological Park has a nice water glass exhibit of Otter which has one male (Shahzad) and one female (Shahzadi).
+           Both these two otters were seized by Banka Forest Division and transferred to Patna Zoo in the year 2006.
+
+          <br/>
+          <br/>
+          <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+          Live Fish/ Fresh Fish- 5.000 Kgs.</br>
+
+          per animal per day.<br>
+
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="rhinoceros">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>ONE-HORNED RHINOCEROS</b></h3>
+           One-horned rhinoceros (Rhinoceros unicornis) is native to Indian sub-continent and it is the largest rhino species in the
+           world. One-horned rhinoceros population were severely depleted due to hunting and it is listed as vulnerable on the IUCN Red
+           list.
+
+          <br/>
+          <br>
+
+          Sanjay Gandhi Biological Park, Patna is famous for successful conservation breeding of one horned rhinoceros.
+
+          <br/>
+          <br/>
+
+          In the mid of year 1979, this park received one pair of rhino named Kancha and Kanchi from State of Assam. Both these
+          rhinos were sub-adult. Almost after 3 years, in the year 1982 one rescued rhino (named Raju) from Bettiah forest
+          (at present Valmiki Tiger Reserve) came to this zoo, which led to the start of conservation breeding of rhino in this park.
+          In the year 1988 one female rhino (Hartali) took birth from successful conjugation of Raju and Kanchi.
+
+          <br/>
+          <br/>
+
+          Again in 1991, same pair of rhino bred again and one more female rhino was added in the list. The first two rhino of this
+          park named Kancha and Kanchi finally lead to the birth of one male rhino in the year 1993. This showed that all rhino of
+          this park are potential breeder.
+          </br>
+          <br/>
+          Hartali the first rhino calf of this park has produced eight calf till date and she considered to be one of the most
+          successful breeding female as far as captive breeding in rhino is concerned.
+
+          <br/>
+          <br/>
+          Park management is very sensitive towards inbreeding of rhino. So, to improve genetic diversity one male rhino Ayodhya
+          and one female rhino Gari were brought to this Park under animal exchange programme from Delhi Zoo and San diago Zoo,
+          U.S.A. respectively. Sanjay Gandhi Biological Park, Patna has provided rhino to Delhi, Kanpur, Ranchi, Hyderabad zoo and
+          country like U.S.A. At present Sanjay Gandhi Biological Park, have 5 male and 5 female rhinos.
+
+          <br/>
+
+          Park management is always striving to sustain the captive one horned rhino population by providing natural environment
+          in the form of muddy moat area, clean night house, etc.
+
+           <br/>
+           <br/>
+
+        <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+        Deer mesh - 6.30 Kgs.</br>
+
+        Gram-    1.40 Kgs</br>
+
+        Wheat- 1.20 kgs.</br>
+
+        Wheat flour- 0.85 Kg.</br>
+
+        Bhusa-	11.5 Kgs.</br>
+
+        Sudan/ Berseem grass-40.00 Kgs.</br>
+
+        Sugar cane (November to February) - 15.00 Kgs.</br>
+
+        Banana- 0.750 Kg.</br>
+
+        Besan- 0.400 Kg.</br>
+
+        Moong- 0.50 gm.</br>
+
+        Bran- 0.500 Kg.</br>
+
+        Per animal per day.</br>
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+     <string name="tiger">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>ROYAL BENGAL TIGER</b></h3>
+           Royal Bengal Tiger (Panthera  tigris) is a majestic animal, which is the largest member of the cat family and are renowned for
+           their power and strength.
+
+          <br/>
+          <br/>
+          Sanjay Gandhi Biological Park is famous for captive Royal Bengal Tiger in its normal and white variant. At present Sanjay Gandhi Biological
+          Park has 03 white and 02 normal colour Royal Bengal Tiger.
+
+          <br/>
+          <br/>
+          Royal Bengal Tiger (Panthera tigris tigris) is a majestic animal, which is the largest member of the cat
+          family and are renowned for their power and strength.
+
+          <br/>
+          <br/>
+
+         The history of Royal Bengal Tiger at Patna Zoo began in the year 1975 when Delhi Zoo provided one male tiger named MOTI.
+         In the year 1980, Govt. of Assam gave two female tigress of wild origin. Name of these two tigresses were BULBORANI and FAUZI.
+         After getting two female partners, Moti started breeding with these two female and the first tiger cub (female) born on 01.01.1983
+         from Bulborani which led to the start of conservation breeding of tiger at Patna Zoo.
+
+          <br/>
+          <br/>
+
+         Till now Sanjay Gandhi Biological Park has provided some tigers to Ranchi Zoo. Several tiger were brought from different zoos to
+         Sanjay Gandhi Biological Park to improve genetic diversity. Under exchange programme Shivpur, Hyderabad and Tirupati Zoos provided
+         tigers to Sanjay Gandhi Biological Park, Patna.
+
+         <br/>
+         <br/>
+
+         At present Bhima (male) and Swarna (female) who were received from Hyderabad and Tirupati zoos respectively are breeding pair,
+         and three cubs have been delivered by them, who are surviving.
+
+         <br/>
+         <br/>
+
+
+        <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+        Beef- 11 Kgs.  <br/>
+
+        Per animal per day.<br/>
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+     <string name="zebra">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>ZEBRA</b></h3>
+           Zebra is best known for its beautiful black and white striped body and its pattern is unique to each individual.
+           Zebras are member of the horse family and they have excellent running speed which is upto 55 kilometre per hour.
+          <br/>
+          <br/>
+
+          In year 1997, first time Patna Zoo received two Zebra (one male and one female) from Lucknow Zoo. One male calf has
+          reproduced from this couple named Vashista.At present Patna Zoo has only one Zebra i.e. Vashista.
+
+          </br>
+
+          <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+         Deer mesh - 1.50 Kg.<br/>
+
+         Bengal gram 1.50 Kg.<br/>
+
+         Wheat- 1 Kg.<br/>
+
+         Bhusa- 5 Kgs.<br/>
+
+         Sudan/Barseem- 10 Kgs.<br/>
+
+         Moong- 0.250 Kg.<br/>
+
+         Jaggary- 0.500 Kg.<br/>
+
+         per animal per day.<br/>
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+    <string-array name="birds">
+        <item>Emu</item>
+        <item>Ostrich</item>
+    </string-array>
+
+     <string name="emu">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>OTTER SMOOTH INDIAN</b></h3>
+          Emu is the second largest living bird in the world, behind the Ostrich which is native to Australia. Emus can grow upto 2
+          meters in height and they have extremely soft feathers. Emus are omnivorous birds.
+
+          <br/>
+          <br/>
+
+          Patna Zoo has breeding population of Emu. Patna Zoo received a female Emu from Ahmedabad Zoo in the year 1992 to pair
+          its male one and which lead to breeding. At present Patna Zoo has four Emus.
+
+          <br/>
+          <br/>
+
+          <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+          Banana-	1.5 - 2 Kgs.100 gms.<br/>
+
+          Garlic-	100 gms.</br>
+          per animal per day.<br>
+
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+     <string name="ostrich">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>OTTER SMOOTH INDIAN</b></h3>
+         Ostrich is the world largest and heaviest living bird which is flightless.
+         Unlike all other living birds, Ostrich excrete faces separately from urine.
+          <br/>
+          <br/>
+
+          Patna zoo has one male and one female Ostrich.
+
+          <br/>
+          <br/>
+
+          Patna Zoo has breeding population of Emu. Patna Zoo received a female Emu from Ahmedabad Zoo in the year 1992
+          to pair its male one and which lead to breeding. At present Patna Zoo has four Emus.
+
+          <br/>
+          <br/>
+
+          <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+          Banana, Wheat, Bajra, Gram, Moong, Maize, Poultry feed, Bread (Roti), Onion, Garlic.<br/>
+
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+    <string-array name="reptiles">
+        <item>Gharial</item>
+        <item>Turtle</item>
+        <item>Snake </item>
+    </string-array>
+
+    <string name="gharial">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>GHARIAL</b></h3>
+          Gharial is an endemic species to India and Nepal which gets its name from the bulbous growth on the tip of
+          the males snout which is called a GHARA, meaning pot in Hindi.
+
+          <br/>
+          <br/>
+
+          Gharial is a crocodilian which eats mainly fishes and it is not dangerous to human being.
+
+          <br/>
+          <br/>
+
+          Patna Zoo is famous for Gharial breeding. Recently Patna Zoo has released some captive bred Gharial into River
+          Gandak which is a successful example of linkage of ex-situ and in-situ conservation. The conservation breeding of Gharial
+          in Sanjay Gandhi Biological Park is very much appreciable.
+
+          <br/>
+          <br/>
+
+
+          <H3><b>FOOD HABITAT AT PATNA ZOO</b></h3>
+
+          Fish (twice weekly : March to September)	-	2-2.5 Kgs.<br/>
+          per animal per day.<br>
+
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="turtle">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>TURTLE</b></h3>
+          The Park is having quite a large number of turtles kept in the old lake, which are not available to the visitors for viewing.
+          Hence, it would be imperative to develop a turtle enclosure, with similar see through glass viewing, near otter enclosure to
+          display the animals.
+
+
+          <br/>
+          <br/>
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="snake">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>SNAKE</b></h3>
+          The existing snake house would be demolished and a new enclosure would be developed with latest gadgets to regulate the
+          temperature in conformity with the needs of the animal group.
+
+          <br/>
+          <br/>
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string-array name="fishes">
+        <item>Fish</item>
+    </string-array>
+
+    <string name="fish">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>FISHES</b></h3>
+          An aquarium housing 35 species of colourful fishes is another attraction of the park.
+
+          <br/>
+          <br/>
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+    <string-array name="amusements">
+        <item>Green House</item>
+        <item>Herbal Garden</item>
+        <item>Rose Garden</item>
+        <item>Children Park</item>
+        <item>Jungle Trail</item>
+        <item>Lake</item>
+        <item>Toy Train</item>
+        <item>Tree House</item>
+    </string-array>
+
+<string name="greenhouse">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>GREEN HOUSE</b></h3>
+
+          Green House is a storehouse of more than fifty varieties of shade loving plants, ferns, etc.
+          This attracts visitors especially the school & college students.
+          <br/>
+          <br/>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+<string name="herbalgarden">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>ROSE GARDEN</b></h3>
+
+          A Herb Garden is usually a garden where herbs are grown. The rise of the herb farm stems from human interactions in
+          agriculture, cultural preferences, growing conditions and availability of certain herbs. In early Egyptian times, herbs were
+          grown for religious ceremonies, temple use, and in mummification, these herbs included: frankincense, myrrh, lotuses,
+          poppies, cornflowers and chamomile. In Islamic cultures, herb gardens are also tied to buildings and are often enclosed
+          behind walls and arranged in geometric patterns that maximize the use of space.on the growing of medicinal herbs.
+          As cities grew, certain larger houses, and small plots of land were used to expand on the growing of herbs, both for
+          cooking and medicinal properties. .
+
+          <br/>
+          <br/>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+    <string name="rosegarden">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>HERBAL GARDEN</b></h3>
+
+          Christened as ‘Dhanvantari Udyan’, the herbal garden harbouring more than thirty species of medicinal plants is situated
+          in the eastern part of the Park by the side of the Raj Bhawan’s boundary wall. Exclusive to this garden is depiction of
+          curative values of different plants in ailments of various human body organs and parts by planting the herbs and shrubs on
+          corresponding body parts of a large cemented replica of a lying human body. The garden serves as an important repository of
+          many important herbal plants in Patna. Large numbers of school and college students visit this garden for educational purpose.
+
+          <br/>
+          <br/>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="childrenpark">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+          <h3><b>CHILDREN PARK</b></h3>
+
+          A park has been exclusively maintained for the recreation of children. The 116400 sq ft. park is provided with a small pond
+          in the centre with sitting facilities around it, five pairs of swings, a pair of see-saw, two roundabouts, and other
+          recreational facilities for different ages of children. Small enclosures of parrots, Himalayan Gian Squirrel and turtles
+          in the park add to the amusement aspect of the children park. The childrens park is fenced with wiremesh for the safety of
+          the children and for security of the park per-se.
+
+          <br/>
+          <br/>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="jungletrail">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <h3><b>JUNGLE TRAIL</b></h3>
+
+         Two walking trails of length 700m and 595m passing through the thick man-made jungle of the park are very popular among the
+         visitors. The trails give a feeling of natural forest to the visitors walking on the tracks. There is proposal to develop new
+         animal enclosures and other zoo facilities in these areas.
+
+          <br/>
+          <br/>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="lake">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <h3><b>LAKE</b></h3>
+
+         Two walking trails of length 700m and 595m passing through the thick man-made jungle of the park are very popular among
+         the visitors. The trails give a feeling of natural forest to the visitors walking on the tracks. There is proposal to
+         develop new animal enclosures and other zoo facilities in these areas.
+
+          <br/>
+          <br/>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="toytrain">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <h3><b>TOY TRAIN</b></h3>
+
+         The Toy Train facility was started in August 1977, when the Indian Railways gifted one engine of 17 HP and two coaches to the
+         park. Tata Iron and Steel Company, Jamshedpur donated 60 M.T. of 30 Lbs. rails to lay down the 1590 m long track. Later on in
+         2004, length of the track extended to 4368 m. This length covers almost every animal enclosure / area of the park.
+
+          <br/>
+          <br/>
+
+        Further, the Railways gifted a new train having four bogies (named as Sarus) of capacity of 20 persons each. Along with this
+        a steam engine No. 73 ZB was donated by the Ministry of Railways, which is kept near the railway platform. There are three
+        mini stations enroute of the toy train.
+
+        <br/>
+        <br/>
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="treehouse">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <h3><b>TREE HOUSE</b></h3>
+
+         The Tree House is a beautiful cottage built on a white Siris tree beside the main road near the Administrative Building.
+         It is a well-furnished double bed cabin with amenities for night stay. Now this structure will be only for awareness of
+         people and no visitors will be allowed to stay in it.
+          <br/>
+          <br/>
+
+         </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string-array name="contactus">
+        <item>Facebook </item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+        <item>Reach Us</item>
+    </string-array>
+
+     <string name="reachus">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <br/><br/>
+
+         <h3><b>Reach Us</b></h3>
+
+        <h2 style="color:#F00;margin-left:100px">Address</h2>
+        <h4 style="color:32cd32;margin-left:100px">Sanjay Gandhi Biological Park
+        <h4 style="color:#32cd32;margin-left:100px">Bailey Road, Raj Bhavan</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Rajbansi Nagar</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Patna, Bihar 800001</h4>
+        <h4 style="color:32cd32;margin-left:100px">Telephone: +91-612-2217445</h4>
+
+        <h6 style="color:#222351;margin-left:100px">Developed by <a href="http://www.smarteria.in" target="_blank">Smarteria Solution</a></h4>
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+
+    <string name="title_section1">Rentals</string>
+    <string name="title_section2">Timing</string>
+    <string name="title_section3">QR code reader</string>
+    <string name="title_section4">Refund &amp; Return Policy</string>
+    <string name="title_section5">Privacy Policy</string>
+    <string name="title_section6">Membership</string>
+    <string name="title_section7">Zoo Calendar</string>
+    <string name="title_section8">Comments with photo</string>
+    <string name="title_section9">Terms &amp; conditions</string>
+    <string name="title_section10">View Comments</string>
+
+    <string-array name="gallery_items">
+        <item>Gallery Mammals</item>
+        <item>Gallery Birds</item>
+        <item>Reptiles And Fishes</item>
+    </string-array>
+
+
+     <string name="rentals">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <br/><br/>
+
+         <h3><b>Rental Details</b></h3>
+
+        <h2 style="color:#F00;margin-left:100px">Address</h2>
+        <h4 style="color:32cd32;margin-left:100px">Sanjay Gandhi Biological Park
+        <h4 style="color:#32cd32;margin-left:100px">Bailey Road, Raj Bhavan</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Rajbansi Nagar</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Patna, Bihar 800001</h4>
+        <h4 style="color:32cd32;margin-left:100px">Telephone: +91-612-2217445</h4>
+
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="timings">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <br/><br/>
+
+         <h3><b>Timings Details</b></h3>
+
+        <h2 style="color:#F00;margin-left:100px">Address</h2>
+        <h4 style="color:32cd32;margin-left:100px">Sanjay Gandhi Biological Park
+        <h4 style="color:#32cd32;margin-left:100px">Bailey Road, Raj Bhavan</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Rajbansi Nagar</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Patna, Bihar 800001</h4>
+        <h4 style="color:32cd32;margin-left:100px">Telephone: +91-612-2217445</h4>
+
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="refund_return_policy">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <br/><br/>
+
+         <h3><b>Refund and Return Policy Details</b></h3>
+
+        <h2 style="color:#F00;margin-left:100px">Address</h2>
+        <h4 style="color:32cd32;margin-left:100px">Sanjay Gandhi Biological Park
+        <h4 style="color:#32cd32;margin-left:100px">Bailey Road, Raj Bhavan</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Rajbansi Nagar</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Patna, Bihar 800001</h4>
+        <h4 style="color:32cd32;margin-left:100px">Telephone: +91-612-2217445</h4>
+
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="privacy_policy">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <br/><br/>
+
+         <h3><b>Privacy Policy Details</b></h3>
+
+        <h2 style="color:#F00;margin-left:100px">Address</h2>
+        <h4 style="color:32cd32;margin-left:100px">Sanjay Gandhi Biological Park
+        <h4 style="color:#32cd32;margin-left:100px">Bailey Road, Raj Bhavan</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Rajbansi Nagar</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Patna, Bihar 800001</h4>
+        <h4 style="color:32cd32;margin-left:100px">Telephone: +91-612-2217445</h4>
+
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <string name="term_and_condition">
+
+      <![CDATA[
+        <html>
+         <head></head>
+         <body style="text-align:justify;color:black;">
+
+         <br/><br/>
+
+         <h3><b>Term and Condition Policy Details</b></h3>
+
+        <h2 style="color:#F00;margin-left:100px">Address</h2>
+        <h4 style="color:32cd32;margin-left:100px">Sanjay Gandhi Biological Park
+        <h4 style="color:#32cd32;margin-left:100px">Bailey Road, Raj Bhavan</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Rajbansi Nagar</h4>
+        <h4 style="color:#32cd32;margin-left:100px">Patna, Bihar 800001</h4>
+        <h4 style="color:32cd32;margin-left:100px">Telephone: +91-612-2217445</h4>
+
+
+        </body>
+        </html>
+        ]]>
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504652057161",
+    "firebase_url": "https://patnazoo-88a9d.firebaseio.com",
+    "project_id": "patnazoo-88a9d",
+    "storage_bucket": "patnazoo-88a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504652057161:android:77cae2913b0de86e",
+        "android_client_info": {
+          "package_name": "cubex.zoopatna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504652057161-i8udthqiuuvp8h6160aujdivbh9d0vaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cubex.zoopatna",
+            "certificate_hash": "35A76ED80C04C56E580BAB4068E0C00D140B39EA"
+          }
+        },
+        {
+          "client_id": "504652057161-u5drn6u6jcju9jjor50cec9h8ldei2nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxEwlXtLDxQbtSNHCPIhg1UyNm1PHqxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504652057161-u5drn6u6jcju9jjor50cec9h8ldei2nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

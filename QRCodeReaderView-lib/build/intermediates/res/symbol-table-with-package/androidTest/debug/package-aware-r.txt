@@ -1,0 +1,4 @@
+com.QRCodeReaderView.test
+int string app_name 0x7f010000
+int string hello_world 0x7f010001
+int string menu_settings 0x7f010002
